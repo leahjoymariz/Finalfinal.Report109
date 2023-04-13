@@ -1,0 +1,22 @@
+
+.About {
+    min-height: 85vh;
+    background-color: whitesmoke;
+    padding-top: 80px;
+}
+
+.About h1{
+    text-align: center;
+    color: rgb(20, 17, 17);
+    font-size: 29px;
+    background-color:rgba(225, 245, 228, 0.738);
+    
+    height: 450px;
+    
+
+}
+
+.About h5 {
+    text-align: center;
+    color: black;
+}
